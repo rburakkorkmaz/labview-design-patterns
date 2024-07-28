@@ -1,5 +1,6 @@
 # STRATEGY PATTERN
 *Written by Ramazan Burak Korkmaz*
+
 **Warning**: I do not guarantee the accuracy of the information provided here and accept no responsibility for it. Much of what I express is based on my own interpretations. Please conduct your own research.
 
 ### Definition
@@ -34,9 +35,9 @@ By utilizing interfaces for behavior references, the Strategy Pattern promotes f
 
 ### Videos
 
-- **Christopher Okhravi - Design Patterns (ep1)**
+- **[Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi) - Design Patterns (ep1)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v9ejT8FO-7I?si=UklT1fShvHu0qFrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen ></iframe>
+[![Strategy Pattern – Design Patterns (ep 1)](https://img.youtube.com/vi/v9ejT8FO-7I/0.jpg)](https://www.youtube.com/watch?v=v9ejT8FO-7I "Strategy Pattern – Design Patterns (ep 1)")
 
 ### Sources
 [1] https://www.geeksforgeeks.org/gang-of-four-gof-design-patterns/
