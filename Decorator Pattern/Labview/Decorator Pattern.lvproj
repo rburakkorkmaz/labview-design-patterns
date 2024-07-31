@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Abstractions" Type="Folder">
-			<Item Name="IText.lvclass" Type="LVClass" URL="../IText/IText.lvclass"/>
+			<Item Name="AbstractText.lvclass" Type="LVClass" URL="../AbstractText/AbstractText.lvclass"/>
 			<Item Name="TextDecorator.lvclass" Type="LVClass" URL="../TextDecorator/TextDecorator.lvclass"/>
 		</Item>
 		<Item Name="Concrete Classes" Type="Folder">
