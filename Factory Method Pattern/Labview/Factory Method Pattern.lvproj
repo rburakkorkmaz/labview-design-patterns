@@ -18,8 +18,9 @@
 			<Item Name="SUVCarFactory.lvclass" Type="LVClass" URL="../SUVCarFactory/SUVCarFactory.lvclass"/>
 		</Item>
 		<Item Name="Products" Type="Folder">
-			<Item Name="Hatchback.lvclass" Type="LVClass" URL="../Hatchback/Hatchback.lvclass"/>
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="ICarProduct.lvclass" Type="LVClass" URL="../ICarProduct/ICarProduct.lvclass"/>
+			<Item Name="Hatchback.lvclass" Type="LVClass" URL="../Hatchback/Hatchback.lvclass"/>
 			<Item Name="Sedan.lvclass" Type="LVClass" URL="../Sedan/Sedan.lvclass"/>
 			<Item Name="SUV.lvclass" Type="LVClass" URL="../SUV/SUV.lvclass"/>
 		</Item>
