@@ -24,6 +24,7 @@
 			<Item Name="Sedan.lvclass" Type="LVClass" URL="../Sedan/Sedan.lvclass"/>
 			<Item Name="SUV.lvclass" Type="LVClass" URL="../SUV/SUV.lvclass"/>
 		</Item>
+		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
