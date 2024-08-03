@@ -401,7 +401,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -411,7 +411,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -464,7 +464,8 @@ CarFactory&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++CreateProduct&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -519,7 +520,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -529,7 +530,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -582,7 +583,8 @@ CarFactory&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++CreateProduct&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -637,7 +639,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -647,7 +649,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -700,7 +702,8 @@ CarFactory&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++CreateProduct&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -755,7 +758,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;80.00000000000000&lt;/Val&gt;
+&lt;Val&gt;90.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -765,7 +768,7 @@ CarFactory&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -814,7 +817,8 @@ ICarProduct&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
-&lt;Val&gt;+GetCarType&lt;/Val&gt;
+&lt;Val&gt;+GetCarImage
++GetCarType&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -865,11 +869,11 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;width&lt;/Name&gt;
-&lt;Val&gt;60.00000000000000&lt;/Val&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -879,7 +883,7 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -932,7 +936,8 @@ ICarProduct&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++GetCarType&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -987,7 +992,7 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -997,7 +1002,7 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -1050,7 +1055,8 @@ ICarProduct&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++GetCarType&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -1101,11 +1107,11 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;width&lt;/Name&gt;
-&lt;Val&gt;50.00000000000000&lt;/Val&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;80.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -1115,7 +1121,7 @@ ICarProduct&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;42.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -1168,7 +1174,8 @@ ICarProduct&lt;/Val&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
 &lt;Val&gt;+Create
-+Destroy&lt;/Val&gt;
++Destroy
++GetCarType&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>

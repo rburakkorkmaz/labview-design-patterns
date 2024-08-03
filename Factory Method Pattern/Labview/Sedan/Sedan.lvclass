@@ -102,6 +102,16 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1082405392</Property>
 	</Item>
 	<Item Name="GetCarType.vi" Type="VI" URL="../GetCarType.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%2!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!"*!-0````])1W&amp;S)&amp;2Z='5!!#:!=!!?!!!0$6.F:'&amp;O,GRW9WRB=X-!$8*F:G6S:7ZD:3"P&gt;81!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!#:!=!!?!!!0$6.F:'&amp;O,GRW9WRB=X-!$(*F:G6S:7ZD:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.MustCallParent" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+	</Item>
+	<Item Name="GetCarImage.vi" Type="VI" URL="../GetCarImage.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#:!=!!?!!!0$6.F:'&amp;O,GRW9WRB=X-!$8*F:G6S:7ZD:3"P&gt;81!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!#:!=!!?!!!0$6.F:'&amp;O,GRW9WRB=X-!$(*F:G6S:7ZD:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
