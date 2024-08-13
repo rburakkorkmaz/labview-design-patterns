@@ -61,23 +61,23 @@
 	</Item>
 	<Item Name="utils" Type="Folder">
 		<Item Name="Diesel ECU_New.vi" Type="VI" URL="../utils/Diesel ECU_New.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)D!!!!$Q!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!RS:7:F=G6O9W5A;7Y!!&amp;V!&amp;A!#'E.S:7&amp;U:3"P=C"M&lt;W^L)(6Q)'6Y;8.U;7ZH%%RP&lt;WMA&gt;8!A:8BJ=X2J&lt;G=!+%.S:7&amp;U:5VF&gt;'BP:#B$=G6B&gt;'5A&lt;X)A&lt;'^P;S"V=#"F?'FT&gt;'FO:SE!!!1!!!!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!"2!-0````],4W*K:7.U)'ZB&lt;75!&amp;E!B%%ZF&gt;U^C;G6D&gt;%.S:7&amp;U:71!!"&amp;!#A!+182U=GFC&gt;82F-1!!1A$R!!!!!!!!!!)32'FF=W6M)%6$63ZM&gt;G.M98.T&amp;%^C;G6D&gt;%&amp;U&gt;(*J9H6U:8-O9X2M!"*!5!!"!!9%2'&amp;U91!!&amp;5"Q!#!!!1!(!!F%6F*3:7:0&gt;81!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!#1!+!!M)28*S&lt;X)A37Y!!":!5!!$!!E!#A!,#56S=G^S)%^V&gt;!"^!0!!%!!!!!%!!A!#!!-!"!!&amp;!!)!!A!#!!A!$!!#!!)!!A!.!Q!"#!!!%A!!!!A!!!!!!!!!!!!!!!U!!!))!!!!#1!!!!!!!!!!!!!!!!!!!!E!!!!+!!!!!!!!!!!!!!!!!!!!$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!$A!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)=!!!!$Q!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!RS:7:F=G6O9W5A;7Y!!&amp;V!&amp;A!#'E.S:7&amp;U:3"P=C"M&lt;W^L)(6Q)'6Y;8.U;7ZH%%RP&lt;WMA&gt;8!A:8BJ=X2J&lt;G=!+%.S:7&amp;U:5VF&gt;'BP:#B$=G6B&gt;'5A&lt;X)A&lt;'^P;S"V=#"F?'FT&gt;'FO:SE!!!1!!!!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!"2!-0````],4W*K:7.U)'ZB&lt;75!&amp;E!B%%ZF&gt;U^C;G6D&gt;%.S:7&amp;U:71!!!J!)12/&lt;WZF!!"#!0%!!!!!!!!!!B*%;76T:7QA25.6,GRW9WRB=X-54W*K:7.U182U=GFC&gt;82F=SZD&gt;'Q!%E"1!!%!"A2%982B!!!61(!!)!!"!!=!#5275F*F:E^V&gt;!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!*!!I!#QB&amp;=H*P=C"*&lt;A!!&amp;E"1!!-!#1!+!!M*28*S&lt;X)A4X6U!(U!]!!1!!!!!1!#!!)!!Q!%!!5!!A!#!!)!#!!-!!)!!A!#!!U$!!%)!!!3!!!!#!!!!!!!!!!!!!!!$1!!!AA!!!!*!!!!!!!!!!!!!!!!!!!!#1!!!!I!!!!!!!!!!!!!!!!!!!!.#Q!2!!!!!!%!!!!!!!!!!!!!!!!!!1!/!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16785536</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082401296</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1084498448</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 		<Item Name="Diesel ECU_GetAttributes.vi" Type="VI" URL="../utils/Diesel ECU_GetAttributes.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'[!!!!$1!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!RS:7:F=G6O9W5A;7Y!!!1!!!!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!#"!)2J0&lt;GRZ2W6U2(:S5G6G:8*F&lt;G.F+%:B&lt;(.F+1!!%5!+!!J"&gt;(2S;7*V&gt;'5R!!"#!0%!!!!!!!!!!B*%;76T:7QA25.6,GRW9WRB=X-54W*K:7.U182U=GFC&gt;82F=SZD&gt;'Q!%E"1!!%!"!2%982B!!!41(!!)!!"!!5!"U2B&gt;'&amp;3:79!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!"Q!)!!E)28*S&lt;X)A37Y!!":!5!!$!!=!#!!*#56S=G^S)%^V&gt;!"^!0!!%!!!!!%!!1!"!!)!!Q!&amp;!!%!!1!"!!9!#A!"!!%!!1!,!Q!"#!!!%!!!!!!!!!!!!!!!!!!!!!U!!!!)!!!!#1!!!!!!!!!!!!!!!!!!!!E!!!!+!!!!!!!!!!!!!!!!!!!!$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!$!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'T!!!!$1!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!RS:7:F=G6O9W5A;7Y!!!1!!!!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!#"!)2J0&lt;GRZ2W6U2(:S5G6G:8*F&lt;G.F+%:B&lt;(.F+1!!#E!B"%ZP&lt;G5!!%)!]1!!!!!!!!!#%E2J:8.F&lt;#"&amp;1V5O&lt;(:D&lt;'&amp;T=R209GJF9X2"&gt;(2S;7*V&gt;'6T,G.U&lt;!!31&amp;!!!1!%"%2B&gt;'%!!".!=!!A!!%!"1!(2'&amp;U96*F:A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!(!!A!#1B&amp;=H*P=C"*&lt;A!!&amp;E"1!!-!"Q!)!!E*28*S&lt;X)A4X6U!(U!]!!1!!!!!1!"!!%!!A!$!!5!!1!"!!%!"A!+!!%!!1!"!!M$!!%)!!!1!!!!!!!!!!!!!!!!!!!!$1!!!!A!!!!*!!!!!!!!!!!!!!!!!!!!#1!!!!I!!!!!!!!!!!!!!!!!!!!.#Q!2!!!!!!%!!!!!!!!!!!!!!!!!!1!-!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16785536</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">8658960</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">10756112</Property>
 			<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 		</Item>
 	</Item>
@@ -101,5 +101,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+	</Item>
+	<Item Name="Set Throttle.vi" Type="VI" URL="../Set Throttle.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#1!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!RS:7:F=G6O9W5A;7Y!!!1!!!!M1(!!(A!!&amp;"*%;76T:7QA25.6,GRW9WRB=X-!!!VS:7:F=G6O9W5A&lt;X6U!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!":!5!!$!!-!"!!&amp;#%6S=G^S)%FO!!!71&amp;!!!Q!$!!1!"1F&amp;=H*P=C"0&gt;81!&lt;!$Q!"!!!!!"!!%!!1!#!!%!!1!"!!%!!1!"!!9!!1!"!!%!"Q-!!1A!!*!!!!!!!!!!!!!!!!!!!!#*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!E!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">2</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.MustCallParent" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082929680</Property>
 	</Item>
 </LVClass>
