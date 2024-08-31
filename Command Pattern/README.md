@@ -50,66 +50,83 @@ It is the class that Uı side initilize and uses. It makes connection between ma
 1) Launch `Launcher.vi`
 <div align="center">
     <img src="Related Images/How to Use Step 1.png">
-    <h5>STEP1</h5>
+    <h5>STEP 1</h5>
 </div>
 
-2) If there is no problem you will the screen below. Click to the Hamburger menu.
+2) If there are no issues, you will see the screen below. Click on the Hamburger menu.
 
 <div align="center">
     <img src="Related Images/How to Use Step 2.png">
-    <h5>STEP2</h5>
+    <h5>STEP 2</h5>
 </div>
 
-3) A menu should slide to the main area. Click `Add Song` button.
+3) A menu will slide into the main area. Click the `Add Song` button.
 
 <div align="center">
     <img src="Related Images/How to Use Step 3.png">
-    <h5>STEP3</h5>
+    <h5>STEP 3</h5>
 </div>
 
-4) It will prompt you to choose directory. This directory must include .wav extension music files and .jpg extension picture files. These two files must be same name if they are related. For example, A.wav has a A.jpg album cover. To choose current directory click `Add`.
+4) You will be prompted to select a directory. This directory must contain music files with a .wav extension and picture files with a .jpg extension. The names of the audio and image files should match if they are related. For example, if you have A.wav, it should be accompanied by A.jpg as the album cover. To select the current directory, click `Add`.
 
 <div align="center">
     <img src="Related Images/How to Use Step 4.png">
-    <h5>STEP4</h5>
+    <h5>STEP 4</h5>
 </div>
 
-5) The directory you have choosen should be in the array list. You can click to hamburger menu again and close this area. **Important note** it takes a little bit time to laod files, therefore the hamburger menu would be not responding. You should calmly wait.
+5) The directory you have chosen should now appear in the array list. You can click the hamburger menu again to close this area.
+**Important note**: It may take a short time to load the files, so the hamburger menu may not respond immediately. Please wait patiently for the files to load before attempting to use the menu again.
 
 <div align="center">
     <img src="Related Images/How to Use Step 5.png">
-    <h5>STEP5</h5>
+    <h5>STEP 5</h5>
 </div>
 
 6) Click Play button.
 
 <div align="center">
     <img src="Related Images/How to Use Step 6.png">
-    <h5>STEP6</h5>
+    <h5>STEP 6</h5>
 </div>
 
-7) Finally you should see your cover arts and musics. You can click on the far right picture and skip current song. Also same thing for the far left picture to rewind to song before.
+7) Once the files have finished loading, you should see your album cover art and music files.To skip the currently playing song, click on the picture on the far right.To rewind to the previous song, click on the picture on the far left.
 
 <div align="center">
     <img src="Related Images/How to Use Step 7.png">
-    <h5>STEP7</h5>
+    <h5>STEP 7</h5>
+</div>
+
+8) If you click the Hamburger menu button in the upper right corner, you can open the detailed command history page.
+
+<div align="center">
+    <img src="Related Images/How to Use Step 8.png">
+    <h5>STEP 8</h5>
+</div>
+
+8) On the command history page, you will see an `Undo` button that allows you to reverse the last command action. Please note that this feature does not apply to the `Stop` button, as it does not have a reverse command.
+
+<div align="center">
+    <img src="Related Images/How to Use Step 9.png">
+    <h5>STEP 9</h5>
 </div>
 
 ##### **C#**
 - **SOON!**
 
 ### **Videos**
-
 - **[Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi) - Design Patterns**
+[![Command Pattern – Design Patterns (ep 7)](https://img.youtube.com/vi/9qA5kw8dcSU/0.jpg)](https://www.youtube.com/watch?v=9qA5kw8dcSU "Command Pattern – Design Patterns (ep 7)")
+
+- **[Geekific](https://www.youtube.com/@geekific) - Design Patterns**
+[![The Command Pattern Explained and Implemented in Java | Behavioral Design Patterns | Geekific](https://img.youtube.com/vi/UfGD60BYzPM/0.jpg)](https://www.youtube.com/watch?v=UfGD60BYzPM "The Command Pattern Explained and Implemented in Java | Behavioral Design Patterns | Geekific")
+
+
 
 ### **BOOKS**
 - Design Patterns - Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
-
-[![Abstract Factory Pattern – Design Patterns (ep 5)](https://img.youtube.com/vi/v-GiuMmsXj4/0.jpg)](https://www.youtube.com/watch?v=v-GiuMmsXj4 "Abstract Factory Pattern – Design Patterns (ep 5)")
-
 ### **Sources**
 
-[1] https://refactoring.guru/images/patterns/diagrams/abstract-factory/structure-indexed.png
+[1] https://ajayiyengar.com/wp-content/uploads/2017/03/command_pattern.jpg
 
 
 

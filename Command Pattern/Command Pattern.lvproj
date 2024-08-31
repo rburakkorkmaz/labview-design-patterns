@@ -38,6 +38,8 @@
 			<Item Name="Hamburger Menu Sade.ctl" Type="VI" URL="../../../../GENEL/LabVIEW Kütüphanesi/Icon ve Tasarımlar/Hamburger Menu/Hamburger Menu Sade.ctl"/>
 			<Item Name="Directory to Files.vi" Type="VI" URL="../Support/Directory to Files.vi"/>
 			<Item Name="Picture Zoom.vi" Type="VI" URL="../Support/Picture Zoom.vi"/>
+			<Item Name="Command Type Def.ctl" Type="VI" URL="../Support/Command Type Def.ctl"/>
+			<Item Name="Stack.lvclass" Type="LVClass" URL="../Support/Stack_class/Stack.lvclass"/>
 		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
