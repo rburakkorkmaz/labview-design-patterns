@@ -21,8 +21,8 @@
 			<Item Name="PauseMusicCommand.lvclass" Type="LVClass" URL="../Commands/PauseMusicCommand_class/PauseMusicCommand.lvclass"/>
 			<Item Name="StopMusicCommand.lvclass" Type="LVClass" URL="../Commands/StopMusicCommand_class/StopMusicCommand.lvclass"/>
 			<Item Name="SkipMusicCommand.lvclass" Type="LVClass" URL="../Commands/SkipMusicCommand_class/SkipMusicCommand.lvclass"/>
-			<Item Name="GetCurrentInfoCommand.lvclass" Type="LVClass" URL="../Commands/GetCurrentInfoCommand_class/GetCurrentInfoCommand.lvclass"/>
 			<Item Name="RewindMusicCommand.lvclass" Type="LVClass" URL="../Commands/RewindMusicCommand_class/RewindMusicCommand.lvclass"/>
+			<Item Name="GetCurrentInfoCommand.lvclass" Type="LVClass" URL="../Commands/GetCurrentInfoCommand_class/GetCurrentInfoCommand.lvclass"/>
 		</Item>
 		<Item Name="Receiver" Type="Folder">
 			<Item Name="MediaPlayer.lvclass" Type="LVClass" URL="../Receiver/MediaPlayer_class/MediaPlayer.lvclass"/>
