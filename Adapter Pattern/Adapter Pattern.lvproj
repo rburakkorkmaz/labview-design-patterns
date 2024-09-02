@@ -12,15 +12,25 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Data" Type="Folder">
+			<Item Name="log.tdms" Type="Document" URL="../Data/log.tdms"/>
+			<Item Name="log.tdms_index" Type="Document" URL="../Data/log.tdms_index"/>
+		</Item>
 		<Item Name="Support" Type="Folder">
 			<Item Name="LoggerData.ctl" Type="VI" URL="../Support/LoggerData.ctl"/>
 			<Item Name="SignalData.ctl" Type="VI" URL="../Support/SignalData.ctl"/>
 			<Item Name="SignalType.ctl" Type="VI" URL="../Support/SignalType.ctl"/>
 		</Item>
-		<Item Name="Data Generator.lvclass" Type="LVClass" URL="../Data Generator_class/Data Generator.lvclass"/>
-		<Item Name="ITarget.lvclass" Type="LVClass" URL="../ITarget_interface/ITarget.lvclass"/>
-		<Item Name="Logger.lvclass" Type="LVClass" URL="../Logger_class/Logger.lvclass"/>
-		<Item Name="LoggerAdapter.lvclass" Type="LVClass" URL="../LoggerAdapter_class/LoggerAdapter.lvclass"/>
+		<Item Name="Main Code Base" Type="Folder">
+			<Item Name="Data Generator.lvclass" Type="LVClass" URL="../Data Generator_class/Data Generator.lvclass"/>
+		</Item>
+		<Item Name="New Feature" Type="Folder">
+			<Item Name="Logger.lvclass" Type="LVClass" URL="../Logger_class/Logger.lvclass"/>
+		</Item>
+		<Item Name="Adapter" Type="Folder">
+			<Item Name="ITarget.lvclass" Type="LVClass" URL="../ITarget_interface/ITarget.lvclass"/>
+			<Item Name="LoggerAdapter.lvclass" Type="LVClass" URL="../LoggerAdapter_class/LoggerAdapter.lvclass"/>
+		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
