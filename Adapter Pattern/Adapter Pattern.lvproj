@@ -17,9 +17,9 @@
 			<Item Name="log.tdms_index" Type="Document" URL="../Data/log.tdms_index"/>
 		</Item>
 		<Item Name="Support" Type="Folder">
-			<Item Name="LoggerData.ctl" Type="VI" URL="../Support/LoggerData.ctl"/>
-			<Item Name="SignalData.ctl" Type="VI" URL="../Support/SignalData.ctl"/>
-			<Item Name="SignalType.ctl" Type="VI" URL="../Support/SignalType.ctl"/>
+			<Item Name="Logger Data.ctl" Type="VI" URL="../Support/Logger Data.ctl"/>
+			<Item Name="Signal Data.ctl" Type="VI" URL="../Support/Signal Data.ctl"/>
+			<Item Name="Signal Type.ctl" Type="VI" URL="../Support/Signal Type.ctl"/>
 		</Item>
 		<Item Name="Main Code Base" Type="Folder">
 			<Item Name="Data Generator.lvclass" Type="LVClass" URL="../Data Generator_class/Data Generator.lvclass"/>
