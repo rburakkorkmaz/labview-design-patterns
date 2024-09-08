@@ -22,6 +22,7 @@
 			<Item Name="Type Defs" Type="Folder">
 				<Item Name="Rooms Map.ctl" Type="VI" URL="../Systems/Type Defs/Rooms Map.ctl"/>
 				<Item Name="Rooms Cluster Array.ctl" Type="VI" URL="../Systems/Type Defs/Rooms Cluster Array.ctl"/>
+				<Item Name="Room Scene.ctl" Type="VI" URL="../Systems/Type Defs/Room Scene.ctl"/>
 			</Item>
 			<Item Name="LightingSystem.lvclass" Type="LVClass" URL="../Systems/LightingSystem_class/LightingSystem.lvclass"/>
 			<Item Name="HeatingSystem.lvclass" Type="LVClass" URL="../Systems/HeatingSystem_class/HeatingSystem.lvclass"/>
