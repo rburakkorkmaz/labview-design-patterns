@@ -24,6 +24,7 @@
 				<Item Name="Rooms Cluster Array.ctl" Type="VI" URL="../Systems/Type Defs/Rooms Cluster Array.ctl"/>
 				<Item Name="Room Scene.ctl" Type="VI" URL="../Systems/Type Defs/Room Scene.ctl"/>
 			</Item>
+			<Item Name="System.lvclass" Type="LVClass" URL="../Systems/System_interface/System.lvclass"/>
 			<Item Name="LightingSystem.lvclass" Type="LVClass" URL="../Systems/LightingSystem_class/LightingSystem.lvclass"/>
 			<Item Name="HeatingSystem.lvclass" Type="LVClass" URL="../Systems/HeatingSystem_class/HeatingSystem.lvclass"/>
 			<Item Name="MusicSystem.lvclass" Type="LVClass" URL="../Systems/MusicSystem_class/MusicSystem.lvclass"/>
@@ -34,6 +35,9 @@
 			<Item Name="House.lvclass" Type="LVClass" URL="../House/House_class/House.lvclass"/>
 		</Item>
 		<Item Name="Client Side" Type="Folder">
+			<Item Name="Type Defs" Type="Folder">
+				<Item Name="Home Mode.ctl" Type="VI" URL="../Client Side/Type Defs/Home Mode.ctl"/>
+			</Item>
 			<Item Name="Facade.lvclass" Type="LVClass" URL="../Client Side/Facade_class/Facade.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
