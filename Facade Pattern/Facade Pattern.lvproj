@@ -39,7 +39,6 @@
 				<Item Name="Home Mode.ctl" Type="VI" URL="../Client Side/Type Defs/Home Mode.ctl"/>
 			</Item>
 			<Item Name="Facade.lvclass" Type="LVClass" URL="../Client Side/Facade_class/Facade.lvclass"/>
-			<Item Name="Client.lvclass" Type="LVClass" URL="../Client Side/Client_class/Client.lvclass"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
