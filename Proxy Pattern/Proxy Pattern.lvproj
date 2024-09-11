@@ -21,7 +21,7 @@
 			<Item Name="Settings Page.vi" Type="VI" URL="../Pages/Settings Page.vi"/>
 			<Item Name="Debugging Page.vi" Type="VI" URL="../Pages/Debugging Page.vi"/>
 		</Item>
-		<Item Name="User Manager.lvclass" Type="LVClass" URL="../User Manager_class/User Manager.lvclass"/>
+		<Item Name="IManager.lvclass" Type="LVClass" URL="../IManager_interface/IManager.lvclass"/>
 		<Item Name="UI Manager.lvclass" Type="LVClass" URL="../UI Manager_class/UI Manager.lvclass"/>
 		<Item Name="UI Manager Proxy.lvclass" Type="LVClass" URL="../UI Manager Proxy_class/UI Manager Proxy.lvclass"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
@@ -29,6 +29,7 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="GOOPUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/GOOPUtility/GOOPUtility.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
