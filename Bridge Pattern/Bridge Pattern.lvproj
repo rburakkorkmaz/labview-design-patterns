@@ -16,7 +16,10 @@
 			<Item Name="Requirements.ctl" Type="VI" URL="../Support/Type Def/Requirements.ctl"/>
 			<Item Name="Message.ctl" Type="VI" URL="../Support/Type Def/Message.ctl"/>
 			<Item Name="Data.ctl" Type="VI" URL="../Support/Type Def/Data.ctl"/>
-			<Item Name="Reading List.ctl" Type="VI" URL="../Support/Type Def/Reading List.ctl"/>
+			<Item Name="File Method.ctl" Type="VI" URL="../Support/Type Def/File Method.ctl"/>
+			<Item Name="State.ctl" Type="VI" URL="../Support/Type Def/State.ctl"/>
+			<Item Name="File Type.ctl" Type="VI" URL="../Support/Type Def/File Type.ctl"/>
+			<Item Name="Map to Table.vi" Type="VI" URL="../Support/Map to Table.vi"/>
 		</Item>
 		<Item Name="Abstractions" Type="Folder">
 			<Item Name="DataType.lvclass" Type="LVClass" URL="../Abstractions/DataType/DataType.lvclass"/>
@@ -27,6 +30,9 @@
 			<Item Name="IDataMethod.lvclass" Type="LVClass" URL="../IDataMethod_interface/IDataMethod.lvclass"/>
 			<Item Name="Logger.lvclass" Type="LVClass" URL="../Implementations/Logger/Logger.lvclass"/>
 			<Item Name="Viewer.lvclass" Type="LVClass" URL="../Implementations/Viewer/Viewer.lvclass"/>
+		</Item>
+		<Item Name="Client" Type="Folder">
+			<Item Name="Client.lvclass" Type="LVClass" URL="../Client/Client_class/Client.lvclass"/>
 		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -49,11 +55,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
-				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
-				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
-				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
-				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
-				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
+				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
