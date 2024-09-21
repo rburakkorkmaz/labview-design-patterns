@@ -18,6 +18,7 @@
 		<Item Name="Component.lvclass" Type="LVClass" URL="../Component_interface/Component.lvclass"/>
 		<Item Name="Box.lvclass" Type="LVClass" URL="../Box_class/Box.lvclass"/>
 		<Item Name="Item.lvclass" Type="LVClass" URL="../Item_class/Item.lvclass"/>
+		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
