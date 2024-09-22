@@ -1,26 +1,20 @@
 <Cluster>
-<Name></Name>
+<Name>cluster</Name>
 <NumElts>5</NumElts>
-<EW>
-<Name>TYPEDEF-FileSaveVersion</Name>
-<Choice>A</Choice>
-<Val>0</Val>
-</EW>
-<EW>
-<Name>diagramType</Name>
-<Choice>None</Choice>
-<Choice>Class</Choice>
-<Choice>Sequency</Choice>
-<Choice>State</Choice>
-<Choice>UseCase</Choice>
-<Val>1</Val>
-</EW>
+<String>
+<Name>Version</Name>
+<Val>B</Val>
+</String>
+<String>
+<Name>DiagramType</Name>
+<Val>ClassDiagramGraph</Val>
+</String>
 <String>
 <Name>DiagramData</Name>
 <Val></Val>
 </String>
 <Cluster>
-<Name>nodeInfo</Name>
+<Name>Nodes</Name>
 <NumElts>4</NumElts>
 <Array>
 <Name>NodeType</Name>
@@ -104,7 +98,7 @@
 &lt;NumElts&gt;3&lt;/NumElts&gt;
 &lt;Cluster&gt;
 &lt;Name&gt;Attributes&lt;/Name&gt;
-&lt;NumElts&gt;8&lt;/NumElts&gt;
+&lt;NumElts&gt;12&lt;/NumElts&gt;
 &lt;Cluster&gt;
 &lt;Name&gt;Base class&lt;/Name&gt;
 &lt;NumElts&gt;2&lt;/NumElts&gt;
@@ -143,7 +137,7 @@
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;width&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;110.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
@@ -165,6 +159,11 @@
 &lt;Val&gt;0x00000000&lt;/Val&gt;
 &lt;/Refnum&gt;
 &lt;Refnum&gt;
+&lt;Name&gt;attributes&lt;/Name&gt;
+&lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
+&lt;Val&gt;0x00000000&lt;/Val&gt;
+&lt;/Refnum&gt;
+&lt;Refnum&gt;
 &lt;Name&gt;methods&lt;/Name&gt;
 &lt;RefKind&gt;Data Log File&lt;/RefKind&gt;
 &lt;Val&gt;0x00000000&lt;/Val&gt;
@@ -181,6 +180,18 @@
 &lt;Name&gt;DEFAULT_HEIGHT&lt;/Name&gt;
 &lt;Val&gt;60&lt;/Val&gt;
 &lt;/I32&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showMethods&lt;/Name&gt;
+&lt;Val&gt;1&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Boolean&gt;
+&lt;Name&gt;showAttributes&lt;/Name&gt;
+&lt;Val&gt;0&lt;/Val&gt;
+&lt;/Boolean&gt;
+&lt;Path&gt;
+&lt;Name&gt;ClassPath&lt;/Name&gt;
+&lt;Val&gt;Component_interface\Component.lvclass&lt;/Val&gt;
+&lt;/Path&gt;
 &lt;/Cluster&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
@@ -244,7 +255,7 @@ Component&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;60.00000000000000&lt;/Val&gt;
+&lt;Val&gt;70.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
@@ -254,7 +265,7 @@ Component&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -293,7 +304,7 @@ Component&lt;/Val&gt;
 &lt;/Boolean&gt;
 &lt;Path&gt;
 &lt;Name&gt;ClassPath&lt;/Name&gt;
-&lt;Val&gt;&lt;/Val&gt;
+&lt;Val&gt;Item_class\Item.lvclass&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;/Cluster&gt;
 &lt;String&gt;
@@ -306,7 +317,8 @@ Component&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
-&lt;Val&gt;&lt;/Val&gt;
+&lt;Val&gt;+Create
++Destroy&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -361,17 +373,17 @@ Component&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;height&lt;/Name&gt;
-&lt;Val&gt;70.00000000000000&lt;/Val&gt;
+&lt;Val&gt;110.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;/Cluster&gt;
 &lt;/Cluster&gt;
 &lt;DBL&gt;
 &lt;Name&gt;midHeight&lt;/Name&gt;
-&lt;Val&gt;20.00000000000000&lt;/Val&gt;
+&lt;Val&gt;28.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;DBL&gt;
 &lt;Name&gt;botHeight&lt;/Name&gt;
-&lt;Val&gt;28.00000000000000&lt;/Val&gt;
+&lt;Val&gt;56.00000000000000&lt;/Val&gt;
 &lt;/DBL&gt;
 &lt;Refnum&gt;
 &lt;Name&gt;name&lt;/Name&gt;
@@ -410,7 +422,7 @@ Component&lt;/Val&gt;
 &lt;/Boolean&gt;
 &lt;Path&gt;
 &lt;Name&gt;ClassPath&lt;/Name&gt;
-&lt;Val&gt;&lt;/Val&gt;
+&lt;Val&gt;Box_class\Box.lvclass&lt;/Val&gt;
 &lt;/Path&gt;
 &lt;/Cluster&gt;
 &lt;String&gt;
@@ -419,12 +431,15 @@ Component&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
-&lt;Val&gt;Components : Component[]&lt;/Val&gt;
+&lt;Val&gt;Components : Component[]
+ItemsInside : Map&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;text&lt;/Name&gt;
-&lt;Val&gt;+Add()
-+Remove()&lt;/Val&gt;
+&lt;Val&gt;+Create
++Destroy
++Add
++Remove&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -432,7 +447,7 @@ Component&lt;/Val&gt;
 </Array>
 </Cluster>
 <Cluster>
-<Name>edgeInfo</Name>
+<Name>Edges</Name>
 <NumElts>4</NumElts>
 <Array>
 <Name>EdgeType</Name>
@@ -722,7 +737,7 @@ Component&lt;/Val&gt;
 &lt;NumElts&gt;2&lt;/NumElts&gt;
 &lt;I32&gt;
 &lt;Name&gt;x&lt;/Name&gt;
-&lt;Val&gt;0&lt;/Val&gt;
+&lt;Val&gt;40&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;I32&gt;
 &lt;Name&gt;y&lt;/Name&gt;
@@ -746,11 +761,11 @@ Component&lt;/Val&gt;
 &lt;NumElts&gt;2&lt;/NumElts&gt;
 &lt;I32&gt;
 &lt;Name&gt;x&lt;/Name&gt;
-&lt;Val&gt;-59&lt;/Val&gt;
+&lt;Val&gt;20&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;I32&gt;
 &lt;Name&gt;y&lt;/Name&gt;
-&lt;Val&gt;1&lt;/Val&gt;
+&lt;Val&gt;0&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;/Cluster&gt;
 &lt;Cluster&gt;
@@ -776,7 +791,11 @@ Component&lt;/Val&gt;
 &lt;/Cluster&gt;
 &lt;String&gt;
 &lt;Name&gt;Type(String)&lt;/Name&gt;
-&lt;Val&gt;DOTTED&lt;/Val&gt;
+&lt;Val&gt;SOLID&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Object name&lt;/Name&gt;
+&lt;Val&gt;DIAMOND&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;Object name&lt;/Name&gt;
@@ -784,11 +803,7 @@ Component&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;Object name&lt;/Name&gt;
-&lt;Val&gt;TRIANGLE&lt;/Val&gt;
-&lt;/String&gt;
-&lt;String&gt;
-&lt;Name&gt;Object name&lt;/Name&gt;
-&lt;Val&gt;VHV&lt;/Val&gt;
+&lt;Val&gt;VH&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
@@ -847,7 +862,7 @@ Component&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;endLabel&lt;/Name&gt;
-&lt;Val&gt;1..*&lt;/Val&gt;
+&lt;Val&gt;&lt;/Val&gt;
 &lt;/String&gt;
 &lt;Cluster&gt;
 &lt;Name&gt;MidLabelOffset&lt;/Name&gt;
@@ -876,7 +891,7 @@ Component&lt;/Val&gt;
 &lt;NumElts&gt;2&lt;/NumElts&gt;
 &lt;I32&gt;
 &lt;Name&gt;x&lt;/Name&gt;
-&lt;Val&gt;40&lt;/Val&gt;
+&lt;Val&gt;0&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;I32&gt;
 &lt;Name&gt;y&lt;/Name&gt;
@@ -900,11 +915,11 @@ Component&lt;/Val&gt;
 &lt;NumElts&gt;2&lt;/NumElts&gt;
 &lt;I32&gt;
 &lt;Name&gt;x&lt;/Name&gt;
-&lt;Val&gt;16&lt;/Val&gt;
+&lt;Val&gt;-55&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;I32&gt;
 &lt;Name&gt;y&lt;/Name&gt;
-&lt;Val&gt;0&lt;/Val&gt;
+&lt;Val&gt;5&lt;/Val&gt;
 &lt;/I32&gt;
 &lt;/Cluster&gt;
 &lt;Cluster&gt;
@@ -930,11 +945,7 @@ Component&lt;/Val&gt;
 &lt;/Cluster&gt;
 &lt;String&gt;
 &lt;Name&gt;Type(String)&lt;/Name&gt;
-&lt;Val&gt;SOLID&lt;/Val&gt;
-&lt;/String&gt;
-&lt;String&gt;
-&lt;Name&gt;Object name&lt;/Name&gt;
-&lt;Val&gt;DIAMOND&lt;/Val&gt;
+&lt;Val&gt;DOTTED&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;Object name&lt;/Name&gt;
@@ -942,7 +953,11 @@ Component&lt;/Val&gt;
 &lt;/String&gt;
 &lt;String&gt;
 &lt;Name&gt;Object name&lt;/Name&gt;
-&lt;Val&gt;VH&lt;/Val&gt;
+&lt;Val&gt;TRIANGLE&lt;/Val&gt;
+&lt;/String&gt;
+&lt;String&gt;
+&lt;Name&gt;Object name&lt;/Name&gt;
+&lt;Val&gt;VHV&lt;/Val&gt;
 &lt;/String&gt;
 &lt;/Cluster&gt;
 </Val>
