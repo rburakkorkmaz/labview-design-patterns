@@ -14,6 +14,8 @@
 	<Property Name="EndevoGOOP_PlugIns" Type="Bin">*!#!!!!!!!A!4A$R!!!!!!!!!!%;2U244(:$&lt;'&amp;T=V^1&lt;(6H37Z5?8"F=SZD&gt;'Q!+U!7!!).2'6T;7&gt;O5'&amp;U&gt;'6S&lt;AN.:82I&lt;W25?8"F=Q!%6(FQ:1!!$%!Q`````Q**2!!!%%!Q`````Q&gt;7:8*T;7^O!!Z!-P````]%5'&amp;U;!!!$E!Q`````Q2/97VF!!!+1&amp;-%2'&amp;U91!!0!$R!!!!!!!!!!%62U244(:$&lt;'&amp;T=V^1&lt;(6H37YO9X2M!"Z!5!!'!!!!!1!#!!-!"!!&amp;"F"M&gt;7&gt;*&lt;A!!&amp;%"!!!(`````!!9(5'RV:UFO=Q!"!!=!!!!!!!!!!!</Property>
 	<Property Name="EndevoGOOP_TemplateUsed" Type="Str"></Property>
 	<Property Name="EndevoGOOP_TemplateVersion" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Since LabVIEW does not allow to a class to reference itself, we can create an interface and implement it in Node class. By implementing this class Node class can reference pseudo itself.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-@!!!*Q(C=T:1^&lt;BN*%)8@'!O1';%4W"$AE(21)O$)4ID.(3B19%TE/I%"B2Z$C@9)&gt;9"."0!%CAAYL-1(%,#"9]'"Q5U-U^]-GU/2_NP!#\B&lt;.4`P&gt;6&gt;^\'[.V,7B^)&gt;7D\8JAWU^:,6_7N]X4[NJH[#0V&lt;1@P2X3?_V\JUVP8(@GL`/PH\9FJHXMVC^:(O6`M)VWWW3S]\LH4\JWHT_?&lt;.K&gt;`N&lt;?DND[E^UWX0=(OX[VZU`9\ROTFRLO_P55K2#-FVL_.&gt;`T[`J);IO-"VK?T/?X`@KIUG$-K2L0ZX@[&gt;4XFW%X/ZP@[^6$,_@Q"PRZ5$`P$`_LPL^_?8^`;H[/&lt;@HX(`AV[P^\9?_&gt;D0/X]M[02X4Z&amp;"N8:S8BULT^;,M=X8W`Z?_X2Y]W'.)``%`S`4;L5@IC)*)*QQN2;KU20^%20^%20^%!0^%!0^%!0&gt;%&gt;X&gt;%&gt;X&gt;%&gt;X&gt;%-X&gt;%-X&gt;%-X^+[D#VXI1G&gt;6EO**I32JEC!:$)K33]+4]#1]#1_P3HA3HI1HY5FY'++%*_&amp;*?"+?B)&gt;J3HA3HI1HY5FY3.72:.@2Y5FY3+_!*_!*?!+?A)?3#HA#A+"9E$B)!I9#-XA)?!+?A)&gt;("4Q"4]!4]!1]W!JY!J[!*_!*?*D3L5JU.'V(BY=U=HA=(I@(Y8&amp;Y3#W(R_&amp;R?"Q?BY&gt;S=HA=(A@#+?AE"U(/*'?!]_,Q/$T=Z0!Y0![0Q_0Q9(5\Z.X+N$2N2Y@(Y$&amp;Y$"[$R_!BB1Q?A]@A-8A-(N,+Y$&amp;Y$"[$R_#BF!Q?A]@A-5#-IJ38E=S9;!QS")/(P_[U7,&gt;,U:&amp;9V[6S?&amp;5/J=JB5TF%+I&gt;$:&gt;.6.F.FEV178W6262:,:2&amp;5@JQ+N!K-3B'6S?V!88/^)C[*#_+=/#7/C2FR3"SU5X`RQ/PL;VV&gt;8?HS]F)8&amp;R=[0T`8[?GJDI_0.:P.&gt;(BYK)/$!WX;-`K[6:PP5M0TN`&gt;P8XT[]`0@8^[&gt;P0MU?`0]X`&gt;PH\@[RL]X'CW;@[J&amp;]X7Q;,Y`841`8C_;62]@GQ`%U^&gt;6-XJ6.&gt;6,ZDTLZ[[`3\`$NV&amp;0N,\X;`140)Q(MA!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">Element</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
@@ -33,16 +35,6 @@
 		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
-	</Item>
-	<Item Name="GetAllValues.vi" Type="VI" URL="../GetAllValues.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#A!E1(!!(A!!%1^&amp;&lt;'6N:7ZU,GRW9WRB=X-!#7^C;G6D&gt;#"J&lt;A!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!A!$!!1)28*S&lt;X)A37Y!!#:!=!!?!!!2$U6M:7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!+&lt;W*K:7.U)'^V&gt;!!!%%!Q`````Q:797RV:8-!!":!5!!$!!)!!Q!%#56S=G^S)%^V&gt;!#%!0!!&amp;!!!!!%!!1!"!!%!"1!"!!%!!1!"!!%!!1!"!!%!"A!"!!=!!1!"!!A#!!%1!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)U!!!!!!!!!#1!!!!!!!!!!!!!!$15!!!!"!!E!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.MustOverride" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 	</Item>
 	<Item Name="GetLeft.vi" Type="VI" URL="../GetLeft.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;.!!!!#A!E1(!!(A!!%1^&amp;&lt;'6N:7ZU,GRW9WRB=X-!#7^C;G6D&gt;#"J&lt;A!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!A!$!!1)28*S&lt;X)A37Y!!#:!=!!?!!!2$U6M:7VF&lt;H1O&lt;(:D&lt;'&amp;T=Q!+&lt;W*K:7.U)'^V&gt;!!!)%"Q!"Y!!"%027RF&lt;76O&gt;#ZM&gt;G.M98.T!!2-:7:U!!!71&amp;!!!Q!#!!-!"!F&amp;=H*P=C"0&gt;81!B!$Q!"1!!!!"!!%!!1!"!!5!!1!"!!%!!1!"!!%!!1!"!!9!!1!(!!%!!1!)!A!"%!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!!!!!!!E!!!!!!!!!!!!!!!U&amp;!!!!!1!*!!!!!!</Property>
